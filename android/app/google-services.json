@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "19411608041",
+    "project_id": "kurd-corder",
+    "storage_bucket": "kurd-corder.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19411608041:android:064582ded23671bc966b78",
+        "android_client_info": {
+          "package_name": "com.example.kurd_coders"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19411608041-mkle3r5gdeu3e3p0l839adc3iu3kh1vg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAU9lOzZ7k_rWJowPgFINO21sooSFYjRNo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19411608041-mkle3r5gdeu3e3p0l839adc3iu3kh1vg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
